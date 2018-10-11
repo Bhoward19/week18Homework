@@ -1,0 +1,23 @@
+{
+  "name": "week18homework",
+  "version": "1.0.0",
+  "description": "Scrape infor from sites to make our own!",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.13.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhoward19/week18Homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhoward19/week18Homework/issues"
+  },
+  "homepage": "https://github.com/Bhoward19/week18Homework#readme"
+}
